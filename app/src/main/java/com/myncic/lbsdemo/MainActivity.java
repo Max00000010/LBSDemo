@@ -26,7 +26,7 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity implements LocationSource, AMapLocationListener{
 
     // 显示地图需要的变量
-    private MapView mapView; // 地图控件
+    private MapView mapView; // 地图de控件
     private AMap aMap; // 地图对象
 
     // 定位需要的声明
