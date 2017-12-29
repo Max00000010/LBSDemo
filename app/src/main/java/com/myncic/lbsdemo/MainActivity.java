@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements LocationSource, A
 
     // 显示地图需要的变量
     private MapView mapView; // 地图de控件
-    private AMap aMap; // 地图对象
+    private AMap aMap; // 地图de对象
 
     // 定位需要的声明
     private AMapLocationClient mLocationClient = null; // 定位发起端
